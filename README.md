@@ -1,0 +1,2 @@
+# mustache
+A mustache component
