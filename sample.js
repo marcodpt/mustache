@@ -11,6 +11,8 @@ export default {
   },
   comp: template,
   updates: {
-    hello: "Hello world!"
+    hello: {
+      text: "Hello world!"
+    }
   }
 }
